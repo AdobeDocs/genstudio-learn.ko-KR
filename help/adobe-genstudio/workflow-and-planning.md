@@ -68,7 +68,7 @@ ht-degree: 7%
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-        <strong>관리자용 AEM Assets 구성</strong></a>
+        <strong>관리자를 위한 AEM Assets 구성</strong></a>
         <p class="is-size-7 recs-limit-description">기본 콘텐츠 아키텍처 및 분류 체계 설정부터 메타데이터 및 에셋 처리 사용자 지정에 이르기까지 핵심 사항을 구성하여 AEM Assets 구현을 위한 견고한 기반을 구축하는 방법을 알아봅니다.</p>
         </div>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span></a></p>
@@ -262,6 +262,6 @@ ht-degree: 7%
 ## 추가 리소스
 
 * [Experience League 이벤트](https://experienceleague.adobe.com/events/)
-* [Adobe [!DNL GenStudio] business.adobe.com에서](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [business.adobe.com의 Adobe [!DNL GenStudio] ](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] 리소스 안내서](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [콘텐츠 공급망의 Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

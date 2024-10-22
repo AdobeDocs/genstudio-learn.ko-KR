@@ -1,13 +1,13 @@
 ---
 title: 소개
 description: 소개
-source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
+source-git-commit: 92581e6251297c40001c99eba09fc019b9770d92
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 15%
+source-wordcount: '15'
+ht-degree: 20%
 
 ---
 
 # 소개
 
-이 파일의 이름을 overview.md로 바꾸려면 content-supply-chain-tutorials.md 파일에서 리디렉션을 제거합니다.
+최신 정보를 보려면 [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) 홈을 방문하세요.

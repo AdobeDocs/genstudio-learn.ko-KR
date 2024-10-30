@@ -1,5 +1,5 @@
 ---
-source-git-commit: 25434d58a4b416d5792d3065a87117caa4ab8c97
+source-git-commit: cbd8d15f33c5dc7b6099fac62b0d77b3a645093c
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 36%
@@ -7,7 +7,7 @@ ht-degree: 36%
 ---
 # 콘텐츠 제공 문서
 
-**참고:** 이 저장소는 보관되었습니다!
+**참고:** 이 저장소는 보관되었습니다.
 
 커뮤니티의 콘텐츠 제공과 마찬가지로 문서 팀 외부 Adobe 직원의 콘텐츠 제공도 환영합니다.
 
